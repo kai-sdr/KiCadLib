@@ -1,0 +1,15 @@
+693071020811						
+Pin,	Name,	Type,			Side
+1,		DAT2,	bidirectional,	left
+2,		CD/DAT3,bidirectional,	left
+3,		CMD,	bidirectional,	left
+4,		VDD,	power_in,		left
+5,		CLK,	input,			left
+6,		VSS,	power_in,		left
+7,		DAT0,	bidirectional,	left
+8,		DAT1,	bidirectional,	left
+9,		CDSW,	bidirectional,	left
+10,		GND,	power_in,		left
+11,		GND,	power_in,		left
+12,		GND,	power_in,		left
+13,		GND,	power_in,		left
