@@ -1,0 +1,67 @@
+DP83867IRPAP
+Pin,Name,Type,Side
+30,TX_CLK,output,left
+31,TX_D7,input,left
+32,TX_D6,input,left
+33,TX_D5,input,left
+34,TX_D4,input,left
+35,TX_D3,input,left
+36,TX_D2,input,left
+37,TX_D1,input,left
+38,TX_D0,input,left
+39,TX_ER,input,left
+40,GTX_CLK,input,left
+52,TX_EN/TX_CTRL,input,left
+43,RX_CLK,output,left
+44,RX_D0,output,left
+45,RX_D1,output,left
+46,RX_D2,output,left
+47,RX_D3,output,left
+48,RX_D4/GPIO,output,left
+49,RX_D5/GPIO,output,left
+50,RX_D6/GPIO,output,left
+51,RX_D7/GPIO,output,left
+53,RX_DV/RX_CTRL,output,left
+54,RX_ER/GPIO,output,left
+55,COL/GPIO,output,left
+56,CS/GPIO,output,left
+2, TD_P_A  ,bidirectional,right
+3, TD_M_A  ,bidirectional,right
+5, TD_P_B  ,bidirectional,right
+6, TD_M_B  ,bidirectional,right
+10, TD_P_C  ,bidirectional,right
+11, TD_M_C  ,bidirectional,right
+13,TD_P_D,bidirectional,right
+14,TD_M_D,bidirectional,right
+61,LED_2,bidirectional,right
+62,LED_1,bidirectional,right
+63,LED_0,bidirectional,right
+24,JTAG_TRSTN,bidirectional,right
+25,JTAG_CLK,bidirectional,right
+26,JTAG_TDO,bidirectional,right
+27,JTAG_TMS,bidirectional,right
+28,JTAG_TDI,bidirectional,right
+15,RBIAS,bidirectional,right
+59,RESET_N,input,right
+60,INT/PWDN,bidirectional,right
+18,X_O,bidirectional,right
+19,X_I,bidirectional,right
+22,CLK_OUT,output,right
+20,MDC,input,right
+21,MDIO,bidirectional,right
+4, VDDA2P5  ,power_in,top
+12,VDDA2P5,power_in,top
+17,VDDA1P8,power_in,top
+64,VDDA1P8,power_in,top
+8,VDD1P1,power_in,top
+29,VDD1P1,power_in,top
+42,VDD1P1,power_in,top
+58,VDD1P1,power_in,top
+23,VDDIO,power_in,top
+41,VDDIO,power_in,top
+57,VDDIO,power_in,top
+65,GND_EP,power_in,bottom
+1,Reserved ,bidirectional,bottom
+7,Reserved ,bidirectional,bottom
+9,Reserved ,bidirectional,bottom
+16,Reserved ,bidirectional,bottom
