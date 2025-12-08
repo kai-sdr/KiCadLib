@@ -96,7 +96,7 @@
       (pin input line
         (at -22.86 16.51 0)
         (length 5.08)
-        (name "AIN1–"
+        (name "AIN1-"
           (effects
             (font
               (size 1.27 1.27))))
@@ -118,7 +118,7 @@
       (pin input line
         (at -22.86 11.430000000000003 0)
         (length 5.08)
-        (name "AIN2–"
+        (name "AIN2-"
           (effects
             (font
               (size 1.27 1.27))))
@@ -151,7 +151,7 @@
       (pin input line
         (at -22.86 3.810000000000004 0)
         (length 5.08)
-        (name "ENC–"
+        (name "ENC-"
           (effects
             (font
               (size 1.27 1.27))))
@@ -459,7 +459,7 @@
       (pin output line
         (at 22.86 2.5400000000000107 180)
         (length 5.08)
-        (name "CLKOUT–"
+        (name "CLKOUT-"
           (effects
             (font
               (size 1.27 1.27))))

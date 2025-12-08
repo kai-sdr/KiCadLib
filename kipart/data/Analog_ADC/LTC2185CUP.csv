@@ -2,12 +2,12 @@ LTC2185CUP
 Pin,Name,Type,Side
 2, VCM1  ,input,left
 4, AIN1+  ,input,left
-5, AIN1–  ,input,left
+5, AIN1-  ,input,left
 12, AIN2+  ,input,left
-13, AIN2–  ,input,left
+13, AIN2-  ,input,left
 15, VCM2  ,input,left
 18, ENC+  ,input,left
-19, ENC–  ,input,left
+19, ENC-  ,input,left
 7, REFH  ,bidirectional,left
 8, REFL  ,bidirectional,left
 9, REFH  ,bidirectional,left
@@ -35,7 +35,7 @@ Pin,Name,Type,Side
 36, D2_13  ,output,right
 37, D2_14  ,output,right
 38, D2_15  ,output,right
-39, CLKOUT–  ,output,right
+39, CLKOUT-  ,output,right
 40, CLKOUT+  ,output,right
 43, D1_0  ,output,right
 44, D1_1  ,output,right
