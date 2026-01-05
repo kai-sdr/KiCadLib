@@ -1,0 +1,13 @@
+TPS7A94
+Pin,Name,Side
+1, IN, left
+2, IN, left
+3, EN_UV, left
+4, PG, top
+5, FB_PG, right
+6, GND, bottom
+7, NR/SS, bottom
+9, OUT, right
+10, OUT, right
+8, SNS, right
+11, GND, bottom
