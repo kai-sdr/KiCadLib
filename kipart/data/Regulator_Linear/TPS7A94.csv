@@ -5,9 +5,9 @@ Pin,Name,Side
 3, EN_UV, left
 4, PG, top
 5, FB_PG, right
-6, GND, bottom
 7, NR/SS, bottom
 9, OUT, right
 10, OUT, right
 8, SNS, right
+6, GND, bottom
 11, GND, bottom
