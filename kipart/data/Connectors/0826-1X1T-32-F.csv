@@ -1,0 +1,20 @@
+0826-1X1T-32-F                                                                                              
+Pin,Name,Side
+1,TRCT3, left
+2,TRD3m,  left
+3,TRD3p, left
+4,TRD2p, left
+5,TRD2m, left
+6,TRCT2, left
+7,TRCT4, left
+8,TRD4p, left
+9,TRD4m, left
+10,TRD1m, left
+11,TRD1p, left
+12,TRCT1, left
+13,LEDYm, bottom
+14,LEDYp, bottom
+15,LEDGmOp, bottom
+16,LEDGpOm, bottom
+17,GND, bottom
+18,GND, bottom

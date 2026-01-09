@@ -1,0 +1,67 @@
+LTC2145CUP-14
+Pin,Name,Type,Side
+2, VCM1  ,input,left
+4, AIN1+  ,input,left
+5, AIN1-  ,input,left
+12, AIN2+  ,input,left
+13, AIN2-  ,input,left
+15, VCM2  ,input,left
+18, ENC+  ,input,left
+19, ENC-  ,input,left
+7, REFH  ,bidirectional,left
+8, REFL  ,bidirectional,left
+9, REFH  ,bidirectional,left
+10, REFL  ,bidirectional,left
+11, PAR/SER_N,bidirectional,left
+20, CS_N,input,left
+21, SCK  ,input,left
+22, SDI  ,input,left
+61,SDO,output,left
+62,VREF,bidirectional,left
+63,SENSE,bidirectional,left
+23, DNC  ,output,right
+24, DNC  ,output,right
+25, D2_0  ,output,right
+26, D2_1  ,output,right
+27, D2_2  ,output,right
+28, D2_3  ,output,right
+29, D2_4  ,output,right
+30, D2_5  ,output,right
+31, D2_6  ,output,right
+32, D2_7  ,output,right
+33, D2_8  ,output,right
+34, D2_9  ,output,right
+35, D2_10  ,output,right
+36, D2_11  ,output,right
+37, D2_12  ,output,right
+38, D2_13  ,output,right
+39, CLKOUT-  ,output,right
+40, CLKOUT+  ,output,right
+43, DNC  ,output,right
+44, DNC  ,output,right
+45, D1_0  ,output,right
+46, D1_1  ,output,right
+47, D1_2  ,output,right
+48, D1_3  ,output,right
+49, D1_4  ,output,right
+50, D1_5  ,output,right
+51, D1_6  ,output,right
+52, D1_7  ,output,right
+53, D1_8  ,output,right
+54, D1_9  ,output,right
+55, D1_10  ,output,right
+56, D1_11  ,output,right
+57, D1_12  ,output,right
+58, D1_13  ,output,right
+59,OF2,output,right
+60,OF1,output,right
+1, VDD  ,power_in,top
+16, VDD  ,power_in,top
+17, VDD  ,power_in,top
+64,VDD,power_in,top
+42, OVDD  ,power_in,top
+3, GND  ,power_in,bottom
+6, GND  ,power_in,bottom
+14, GND  ,power_in,bottom
+41, OGND  ,power_in,bottom
+65,GND_EP,power_in,bottom
