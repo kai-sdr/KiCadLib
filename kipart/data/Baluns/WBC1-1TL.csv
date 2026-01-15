@@ -1,0 +1,9 @@
+WBC1-1TL
+Pin,Name,Side
+1, SEC_DOT, right
+2, SEC_TAP, right
+3, SEC, right
+6, PRI_DOT, left
+5, NC, left
+4, PRI, left
+

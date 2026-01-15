@@ -1,0 +1,6 @@
+VBLD861
+Pin,Name,Side
+1, CTRL, left
+2, GND, bottom
+3, OUT, right
+4, VDD, top

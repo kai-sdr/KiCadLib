@@ -1,0 +1,29 @@
+LTC6431-15
+Pin,Name,Side
+8, GND, bottom
+17, GND, bottom
+23, GND, bottom
+25, GND, bottom
+1, DNC, bottom
+2, DNC, bottom
+3, DNC, bottom
+4, DNC, bottom
+5, DNC, bottom
+6, DNC, bottom
+7, DNC, bottom
+10, DNC, bottom
+11, DNC, bottom
+12, DNC, bottom
+13, DNC, bottom
+14, DNC, bottom
+15, DNC, bottom
+19, DNC, bottom
+20, DNC, bottom
+21, DNC, bottom
+9, VCC, top
+22, VCC, top 
+24, IN, left
+18, OUT, right
+16, T_DIODE, right
+
+
