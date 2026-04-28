@@ -1974,7 +1974,7 @@
       (pin bidirectional line
         (at -85.09 10.16000000000001 0)
         (length 6.35)
-        (name "LS_IO_B1B"
+        (name "LS_IO_B1B_JTAGEN"
           (effects
             (font
               (size 1.27 1.27))))
@@ -1985,7 +1985,7 @@
       (pin bidirectional line
         (at -85.09 7.620000000000011 0)
         (length 6.35)
-        (name "LS_IO_B1B_L17n"
+        (name "LS_IO_B1B_L17n_TMS"
           (effects
             (font
               (size 1.27 1.27))))
@@ -1996,7 +1996,7 @@
       (pin bidirectional line
         (at -85.09 5.080000000000011 0)
         (length 6.35)
-        (name "LS_IO_B1B_L17p"
+        (name "LS_IO_B1B_L17p_TCK"
           (effects
             (font
               (size 1.27 1.27))))
@@ -2007,7 +2007,7 @@
       (pin bidirectional line
         (at -85.09 2.5400000000000107 0)
         (length 6.35)
-        (name "LS_IO_B1B_L18n"
+        (name "LS_IO_B1B_L18n_TDI"
           (effects
             (font
               (size 1.27 1.27))))
@@ -2018,7 +2018,7 @@
       (pin bidirectional line
         (at -85.09 1.0658141036401503e-14 0)
         (length 6.35)
-        (name "LS_IO_B1B_L18p"
+        (name "LS_IO_B1B_L18p_TDO"
           (effects
             (font
               (size 1.27 1.27))))
@@ -3096,7 +3096,7 @@
       (pin bidirectional line
         (at -26.67000000000001 -77.47 90)
         (length 6.35)
-        (name "HS_IO_B3__VREFB3N0"
+        (name "HS_IO_B3_VREFB3N0"
           (effects
             (font
               (size 1.27 1.27))))
@@ -3162,7 +3162,7 @@
       (pin bidirectional line
         (at -11.430000000000014 -77.47 90)
         (length 6.35)
-        (name "HS_IO_B3__"
+        (name "HS_IO_B3"
           (effects
             (font
               (size 1.27 1.27))))
