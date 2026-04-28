@@ -1,0 +1,15 @@
+LT3045
+Pin,Name,Type,Side
+1, IN, power_in, left
+2, IN, power_in, left
+3, IN, power_in, left
+4, EN/UV, bidirectional, left
+5, PG, bidirectional, left
+6, ILIM, bidirectional, left
+12, OUT, power_out, right
+11, OUT, power_out, right
+10, OUTS, bidirectional, right
+7, PGFB, bidirectional, right
+8, SET, bidirectional, right
+9, GND, power_in, bottom
+13, GND, power_in, bottom

@@ -1747,4 +1747,1669 @@
           (effects
             (font
               (size 1.27 1.27))))))
+    (embedded_fonts no))
+  (symbol "10M40SA_E144"
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at -78.74 74.295 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify right)
+        (hide no)))
+    (property "Value" "10M40SA_E144"
+      (at -78.74 71.75500000000001 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify right)
+        (hide no)))
+    (property "Footprint" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify right)
+        (hide yes)))
+    (property "Datasheet" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify right)
+        (hide yes)))
+    (property "Description" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)
+        (hide yes)))
+    (property "ki_keywords" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)
+        (hide yes)))
+    (property "ki_locked" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)
+        (hide yes)))
+    (property "ki_fp_filters" ""
+      (at -78.74 71.12 0)
+      (effects
+        (font
+          (size 1.27 1.27))
+        (justify left)
+        (hide yes)))
+    (symbol "10M40SA_E144_1_1"
+      (rectangle
+        (start -78.74 -71.12)
+        (end 78.74 71.12)
+        (stroke
+          (width 0.254)
+          (type solid))
+        (fill
+          (type background)))
+      (pin power_in line
+        (at -85.09 45.72 0)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "1"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 43.18 0)
+        (length 6.35)
+        (name "VCCA6"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "2"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 40.64 0)
+        (length 6.35)
+        (name "ANAIN1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "3"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 38.1 0)
+        (length 6.35)
+        (name "REFGND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "4"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 35.56 0)
+        (length 6.35)
+        (name "ADC_VREF"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "5"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 33.02 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L1n_ADC1IN1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "6"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 30.480000000000004 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L1p_ADC1IN2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "7"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 27.940000000000005 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L3n_ADC1IN3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "8"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 25.400000000000006 0)
+        (length 6.35)
+        (name "VCCIO1A"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "9"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 22.860000000000007 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L3p_ADC1IN4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "10"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 20.320000000000007 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L5n_ADC1IN5"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "11"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 17.78000000000001 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L5p_ADC1IN6"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "12"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 15.240000000000009 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L7n_ADC1IN7"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "13"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 12.70000000000001 0)
+        (length 6.35)
+        (name "LS_IO_B1A_L7p_ADC1IN8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "14"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 10.16000000000001 0)
+        (length 6.35)
+        (name "LS_IO_B1B"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "15"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 7.620000000000011 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L17n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "16"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 5.080000000000011 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L17p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "17"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 2.5400000000000107 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L18n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "18"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 1.0658141036401503e-14 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L18p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "19"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -2.5399999999999894 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L20n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "20"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -5.079999999999989 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L20p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "21"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -7.6199999999999894 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L22n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "22"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -10.15999999999999 0)
+        (length 6.35)
+        (name "LS_IO_B1B_L22p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "23"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -12.699999999999989 0)
+        (length 6.35)
+        (name "VCCIO1B"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "24"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -15.239999999999988 0)
+        (length 6.35)
+        (name "HS_IO_B2_L28n_CLK0n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "25"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -17.779999999999987 0)
+        (length 6.35)
+        (name "HS_IO_B2_L28p_CLK0p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "26"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -20.319999999999986 0)
+        (length 6.35)
+        (name "HS_IO_B2_L36n_CLK1n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "27"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -22.859999999999985 0)
+        (length 6.35)
+        (name "HS_IO_B2_L36p_CLK1p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "28"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -25.399999999999984 0)
+        (length 6.35)
+        (name "HS_IO_B2_VREFB2N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "29"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -27.939999999999984 0)
+        (length 6.35)
+        (name "HS_IO_B2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "30"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -30.479999999999983 0)
+        (length 6.35)
+        (name "VCCIO2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "31"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -33.01999999999998 0)
+        (length 6.35)
+        (name "HS_IO_B2_L59n_PLL_L_CLKOUTn"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "32"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -85.09 -35.55999999999998 0)
+        (length 6.35)
+        (name "HS_IO_B2_L59p_PLL_L_CLKOUTp"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "33"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -38.09999999999998 0)
+        (length 6.35)
+        (name "VCCA2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "34"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -40.63999999999998 0)
+        (length 6.35)
+        (name "VCCA1"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "35"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -43.17999999999998 0)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "36"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -85.09 -45.71999999999998 0)
+        (length 6.35)
+        (name "GND_EP"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "145"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 43.18 180)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "73"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 40.64 180)
+        (length 6.35)
+        (name "HS_IO_B5_R2p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "74"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 38.1 180)
+        (length 6.35)
+        (name "HS_IO_B5_R2n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "75"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 35.56 180)
+        (length 6.35)
+        (name "HS_IO_B5_R1p_RUP"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "76"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 33.02 180)
+        (length 6.35)
+        (name "HS_IO_B5_R1n_RDN"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "77"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 30.480000000000004 180)
+        (length 6.35)
+        (name "VCCIO5"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "78"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 27.940000000000005 180)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "79"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 25.400000000000006 180)
+        (length 6.35)
+        (name "HS_IO_B5"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "80"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 22.860000000000007 180)
+        (length 6.35)
+        (name "HS_IO_B5_VREFB5N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "81"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 20.320000000000007 180)
+        (length 6.35)
+        (name "HS_IO_B5_R29p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "82"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 17.78000000000001 180)
+        (length 6.35)
+        (name "HS_IO_B5_R29n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "83"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 15.240000000000009 180)
+        (length 6.35)
+        (name "HS_IO_B5_R33p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "84"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 12.70000000000001 180)
+        (length 6.35)
+        (name "HS_IO_B5_R32p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "85"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 10.16000000000001 180)
+        (length 6.35)
+        (name "HS_IO_B5_R33n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "86"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 7.620000000000011 180)
+        (length 6.35)
+        (name "HS_IO_B5_R32n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "87"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 5.080000000000011 180)
+        (length 6.35)
+        (name "HS_IO_B6_R38p_CLK2p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "88"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 2.5400000000000107 180)
+        (length 6.35)
+        (name "HS_IO_B6_R38n_CLK2n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "89"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 1.0658141036401503e-14 180)
+        (length 6.35)
+        (name "HS_IO_B6_R40p_CLK3p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "90"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -2.5399999999999894 180)
+        (length 6.35)
+        (name "HS_IO_B6_R40n_CLK3n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "91"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -5.079999999999989 180)
+        (length 6.35)
+        (name "HS_IO_B6_R42p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "92"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -7.6199999999999894 180)
+        (length 6.35)
+        (name "HS_IO_B6_R42n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "93"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -10.15999999999999 180)
+        (length 6.35)
+        (name "VCCIO6"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "94"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -12.699999999999989 180)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "95"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -15.239999999999988 180)
+        (length 6.35)
+        (name "HS_IO_B6_R50p_DPCLK3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "96"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -17.779999999999987 180)
+        (length 6.35)
+        (name "HS_IO_B6_VREFB6N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "97"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -20.319999999999986 180)
+        (length 6.35)
+        (name "HS_IO_B6_R50n_DPCLK2"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "98"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -22.859999999999985 180)
+        (length 6.35)
+        (name "HS_IO_B6_R51p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "99"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -25.399999999999984 180)
+        (length 6.35)
+        (name "HS_IO_B6_R52p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "100"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -27.939999999999984 180)
+        (length 6.35)
+        (name "HS_IO_B6_R51n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "101"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -30.479999999999983 180)
+        (length 6.35)
+        (name "HS_IO_B6_R52n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "102"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -33.01999999999998 180)
+        (length 6.35)
+        (name "VCCIO6"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "103"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -35.55999999999998 180)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "104"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -38.09999999999998 180)
+        (length 6.35)
+        (name "HS_IO_B6_R69p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "105"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 85.09 -40.63999999999998 180)
+        (length 6.35)
+        (name "HS_IO_B6_R69n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "106"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -43.17999999999998 180)
+        (length 6.35)
+        (name "VCCA3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "107"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 85.09 -45.71999999999998 180)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "108"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -44.45 77.47 270)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "109"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -41.910000000000004 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T1p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "110"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -39.370000000000005 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T1n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "111"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -36.830000000000005 77.47 270)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "112"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -34.290000000000006 77.47 270)
+        (length 6.35)
+        (name "VCCIO7"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "113"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -31.750000000000007 77.47 270)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "114"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -29.210000000000008 77.47 270)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "115"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -26.67000000000001 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_VREFB7N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "116"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -24.13000000000001 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T20p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "117"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -21.59000000000001 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T20n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "118"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -19.05000000000001 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T30p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "119"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -16.510000000000012 77.47 270)
+        (length 6.35)
+        (name "HS_IO_B7_T30n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "120"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -13.970000000000013 77.47 270)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "121"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -11.430000000000014 77.47 270)
+        (length 6.35)
+        (name "VCCIO8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "122"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -8.890000000000015 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T42p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "123"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -6.350000000000015 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T42n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "124"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -3.8100000000000147 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "125"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -1.2700000000000147 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_VREFB8N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "126"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 1.2699999999999854 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T45p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "127"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 3.8099999999999854 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "128"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 6.349999999999985 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T45n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "129"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 8.889999999999986 77.47 270)
+        (length 6.35)
+        (name "LS_I_B8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "130"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 11.429999999999986 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T46p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "131"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 13.969999999999985 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T46n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "132"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 16.509999999999984 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T48p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "133"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 19.049999999999983 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T48n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "134"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 21.589999999999982 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "135"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 24.12999999999998 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T50p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "136"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 26.66999999999998 77.47 270)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "137"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 29.20999999999998 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T50n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "138"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 31.74999999999998 77.47 270)
+        (length 6.35)
+        (name "VCCIO8"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "139"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 34.28999999999998 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T52p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "140"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 36.82999999999998 77.47 270)
+        (length 6.35)
+        (name "LS_IO_B8_T52n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "141"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 39.369999999999976 77.47 270)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "142"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 41.909999999999975 77.47 270)
+        (length 6.35)
+        (name "VCCA4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "143"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 44.449999999999974 77.47 270)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "144"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -44.45 -77.47 90)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "37"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -41.910000000000004 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B1n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "38"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -39.370000000000005 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B1p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "39"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -36.830000000000005 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B3n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "40"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -34.290000000000006 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B3p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "41"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -31.750000000000007 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B5n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "42"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -29.210000000000008 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B5p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "43"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -26.67000000000001 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3__VREFB3N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "44"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -24.13000000000001 -77.47 90)
+        (length 6.35)
+        (name "VCCIO3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "45"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -21.59000000000001 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B15n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "46"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -19.05000000000001 -77.47 90)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "47"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -16.510000000000012 -77.47 90)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "48"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -13.970000000000013 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B15p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "49"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -11.430000000000014 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3__"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "50"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -8.890000000000015 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B18n_CLK6n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "51"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -6.350000000000015 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B18p_CLK6p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "52"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at -3.8100000000000147 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B20n_CLK7n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "53"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at -1.2700000000000147 -77.47 90)
+        (length 6.35)
+        (name "VCCIO3"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "54"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 1.2699999999999854 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B3_B20p_CLK7p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "55"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 3.8099999999999854 -77.47 90)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "56"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 6.349999999999985 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_VREFB4N0"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "57"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 8.889999999999986 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "58"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 11.429999999999986 -77.47 90)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "59"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 13.969999999999985 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B39n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "60"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 16.509999999999984 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B39p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "61"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 19.049999999999983 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "62"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 21.589999999999982 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B45n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "63"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 24.12999999999998 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B45p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "64"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 26.66999999999998 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B49n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "65"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 29.20999999999998 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B49p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "66"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 31.74999999999998 -77.47 90)
+        (length 6.35)
+        (name "VCCIO4"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "67"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 34.28999999999998 -77.47 90)
+        (length 6.35)
+        (name "GND"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "68"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 36.82999999999998 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B57n"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "69"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin bidirectional line
+        (at 39.369999999999976 -77.47 90)
+        (length 6.35)
+        (name "HS_IO_B4_B57p"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "70"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 41.909999999999975 -77.47 90)
+        (length 6.35)
+        (name "VCCA5"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "71"
+          (effects
+            (font
+              (size 1.27 1.27)))))
+      (pin power_in line
+        (at 44.449999999999974 -77.47 90)
+        (length 6.35)
+        (name "VCC_ONE"
+          (effects
+            (font
+              (size 1.27 1.27))))
+        (number "72"
+          (effects
+            (font
+              (size 1.27 1.27))))))
     (embedded_fonts no)))

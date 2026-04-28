@@ -1,0 +1,16 @@
+7499111121A
+Pin,Name,Type,Side
+1, D1p, passive, left
+2, D1m, passive, left
+3, D2p, passive, left
+6, D2m, passive, left
+4, D3p, passive, left
+5, D3m, passive, left
+7, D4p, passive, left 
+8, D4m, passive, left
+9, CT, passive, left
+11, LEDYp, bidirectional, left
+12, LEDYm, bidirectional, left
+13, LEDGp, bidirectional, left
+14, LEDGm, bidirectional, left
+10, GND, power_in, left
